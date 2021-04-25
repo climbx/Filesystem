@@ -1,0 +1,13 @@
+{
+    "name": "climbx/filesystem",
+    "description": "Tools to handle the filesystem",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pierre Gaimard",
+            "email": "climbx@pierregaimard.fr"
+        }
+    ],
+    "require": {}
+}
